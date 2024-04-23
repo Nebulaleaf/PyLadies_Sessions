@@ -1,0 +1,1 @@
+{"name": "Anna", "city": "Brno", "languages": ["Czech", "English", "Python"], "age": 26}

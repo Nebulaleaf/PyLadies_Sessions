@@ -1,0 +1,6 @@
+print("Hello world!")
+print("Hello pyladies!")
+print(4)
+print(2 + 4)
+print(1, 2, 3, "hello world")
+print(Hello failure)
